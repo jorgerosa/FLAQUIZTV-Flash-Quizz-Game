@@ -1,5 +1,4 @@
-# FLAQUIZTV
-FLAQUIZTV - Family Quiz Game
+# FLAQUIZTV - Family Quiz Game
 ==============================================================================================
 - FLAQUIZTV by: Jorge Rosa (Portugal) - With love to ASCR
 - Email: jorge.bigarte@gmail.com
