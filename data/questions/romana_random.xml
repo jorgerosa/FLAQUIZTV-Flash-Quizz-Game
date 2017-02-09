@@ -1,0 +1,214 @@
+<!--
+IDIOM: Romana
+TEMPLATE: Random Questions
+QUESTIONS BY: Adrian Tudor Panescu
+NUMBER OF QUESTIONS: 20
+DIFFICULTY: 8 (0 is easy, 10 is very hard)
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+
+
+<data>
+<question>In ce an a avut loc accidentul nuclear de la Chernobyl?</question>
+<a>1830</a>
+<b>2005</b>
+<c>1986</c>
+<d>1978</d>
+<correct>c</correct>
+<image>english_random_chernobyl.jpg</image>
+</data>
+
+<data>
+<question>Care este cea mai mare tara din lume?</question>
+<a>Brazila</a>
+<b>Federatia Rusa</b>
+<c>Canada</c>
+<d>S.U.A.</d>
+<correct>b</correct>
+<image>english_random_worldmap.jpg</image>
+</data>
+
+<data>
+<question>Presedintele Kennedy obisnuia sa citeasca 4 ziare in...</question>
+<a>20 de minute</a>
+<b>2 minute</b>
+<c>4 zile</c>
+<d>o saptamana</d>
+<correct>a</correct>
+<image>english_random_kennedy.jpg</image>
+</data>
+
+<data>
+<question>Chimistul englez John Walker a inventat chibriturile in...</question>
+<a>2001</a>
+<b>2008</b>
+<c>1827</c>
+<d>1230</d>
+<correct>c</correct>
+<image>english_random_matches.jpg</image>
+</data>
+
+<data>
+<question>Cati oameni au murit in cel de-al Doilea Razboi Mondial (1939-1945)?</question>
+<a>20.000.000</a>
+<b>10.000</b>
+<c>1.000.000</c>
+<d>5.000</d>
+<correct>a</correct>
+<image>english_random_wwii.jpg</image>
+</data>
+
+<data>
+<question>Cate Coca-Cola sunt vandute zilnic in lume?</question>
+<a>1.000.000</a>
+<b>10.000.000</b>
+<c>300.000.000</c>
+<d>3.000</d>
+<correct>c</correct>
+<image>english_random_cokes.jpg</image>
+</data>
+
+<data>
+<question>Cati copii a avut compozitorul german Johann Sebastian Bach (1685-1750)?</question>
+<a>2</a>
+<b>6</b>
+<c>11</c>
+<d>20</d>
+<correct>d</correct>
+<image>english_random_bach.jpg</image>
+</data>
+
+<data>
+<question>Cel mai mic stat suveran din lume este...</question>
+<a>Etiopia</a>
+<b>Vatican</b>
+<c>Egipt</c>
+<d>Cuba</d>
+<correct>b</correct>
+<image>english_random_worldmap.jpg</image>
+</data>
+
+<data>
+<question>Cine a avut cel mai mare imperiu din toate timpurile?</question>
+<a>Portugalia si Spaina</a>
+<b>China</b>
+<c>S.U.A.</c>
+<d>Federatia Rusa</d>
+<correct>a</correct>
+<image>english_random_batalha.swf</image>
+</data>
+
+<data>
+<question>Viteza luminii in vid este...</question>
+<a>20 km/h</a>
+<b>1.000 km/s</b>
+<c>300.000 km/s</c>
+<d>100.000 km/s</d>
+<correct>c</correct>
+<image>english_random_light.jpg</image>
+</data>
+
+<data>
+<question>Ursul Koala este un mamifer marsupial care doarme aproximativ...</question>
+<a>6 ore pe zi</a>
+<b>20 de ore pe zi</b>
+<c>1 ora pe zi</c>
+<d>24 de ore pe zi</d>
+<correct>b</correct>
+<image>english_random_koala.jpg</image>
+</data>
+
+<data>
+<question>Pasarea colibri este cea mai mica pasare din lume, ce masoara de la varful ciocului pana la capatul cozii...</question>
+<a>20 cm</a>
+<b>6 cm</b>
+<c>12 cm</c>
+<d>40 cm</d>
+<correct>b</correct>
+<image>english_random_bird.jpg</image>
+</data>
+
+<data>
+<question>Ce tara are cele mai vechi granite din lume, stabilite in 1249?</question>
+<a>S.U.A.</a>
+<b>China</b>
+<c>Portugalia</c>
+<d>Franta</d>
+<correct>c</correct>
+<image>english_random_batalha.swf</image>
+</data>
+
+<data>
+<question>Obiceiul ceaiului a fost introdus la curtea britanica de catre...</question>
+<a>Portughezi</a>
+<b>Francezi</b>
+<c>Chinezi</c>
+<d>Spanioli</d>
+<correct>a</correct>
+<image>english_random_tea.jpg</image>
+</data>
+
+<data>
+<question>Aristides Sousa Mendes, care a ajutat 30.000 de evrei sa scape de persecutia nazista, era...</question>
+<a>Frencez</a>
+<b>American</b>
+<c>Englez</c>
+<d>Portughez</d>
+<correct>d</correct>
+<image>english_random_batalha.swf</image>
+</data>
+
+<data>
+<question>Compania Apple a fost fondata in...</question>
+<a>1380</a>
+<b>2007</b>
+<c>1976</c>
+<d>1988</d>
+<correct>c</correct>
+<image>english_random_apple.jpg</image>
+</data>
+
+<data>
+<question>Costul dezvoltarii tuturor pachetelor incluse in distributia Debian 4.0 a fost estimat la...</question>
+<a>10 milioane $</a>
+<b>13 miliarde $</b>
+<c>1 milion $</c>
+<d>$2 milioane $</d>
+<correct>b</correct>
+<image>english_random_debian.jpg</image>
+</data>
+
+<data>
+<question>Debian a fost anuntat pentru prima data pe 16 August 1993 de catre...</question>
+<a>Bill Gates</a>
+<b>Ian Murdock</b>
+<c>Mark Shuttleworth</c>
+<d>Steve Jobs</d>
+<correct>b</correct>
+<image>english_random_mark.jpg</image>
+</data>
+
+<data>
+<question>Cate linii de cod contin programele din "depozitul" Ubuntu</question>
+<a>121 miliarde</a>
+<b>9 miliarde</b>
+<c>121 milioane</c>
+<d>9 milioane</d>
+<correct>c</correct>
+<image>english_random_ubuntu.jpg</image>
+</data>
+
+<data>
+<question>Numele Google provine dintr-o greseala de scriere a cuvantului...</question>
+<a>gol</a>
+<b>googol</b>
+<c>googollo</c>
+<d>gogo</d>
+<correct>b</correct>
+<image>english_random_google.jpg</image>
+</data>
+
+
+</dataroot>

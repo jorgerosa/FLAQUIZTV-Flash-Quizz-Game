@@ -1,0 +1,214 @@
+<!--
+IDIOM: English
+TEMPLATE: Random Questions
+QUESTIONS BY: Jorge Rosa
+NUMBER OF QUESTIONS: 20
+DIFFICULTY: 8 (0 is easy, 10 is very hard)
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+
+
+<data>
+<question>When occurred the nuclear plant incident in Chernobyl?</question>
+<a>1830</a>
+<b>2005</b>
+<c>1986</c>
+<d>1978</d>
+<correct>c</correct>
+<image>english_random_chernobyl.jpg</image>
+</data>
+
+<data>
+<question>Which is the most bigger country?</question>
+<a>Brazil</a>
+<b>Russian Federation</b>
+<c>Canada</c>
+<d>U.S.A.</d>
+<correct>b</correct>
+<image>english_random_worldmap.jpg</image>
+</data>
+
+<data>
+<question>President Kennedy used to read four newspapers in...</question>
+<a>twenty minutes</a>
+<b>two minutes</b>
+<c>four days</c>
+<d>a week</d>
+<correct>a</correct>
+<image>english_random_kennedy.jpg</image>
+</data>
+
+<data>
+<question>The English chemist John Walker invented matches in...</question>
+<a>2001</a>
+<b>2008</b>
+<c>1827</c>
+<d>1230</d>
+<correct>c</correct>
+<image>english_random_matches.jpg</image>
+</data>
+
+<data>
+<question>How many people died in World War II (1939-1945)?</question>
+<a>20,000,000</a>
+<b>10,000</b>
+<c>1,000,000</c>
+<d>5,000</d>
+<correct>a</correct>
+<image>english_random_wwii.jpg</image>
+</data>
+
+<data>
+<question>How many Cokes are sold in the world every day?</question>
+<a>1,000,000</a>
+<b>10,000,000</b>
+<c>300,000,000</c>
+<d>3,000</d>
+<correct>c</correct>
+<image>english_random_cokes.jpg</image>
+</data>
+
+<data>
+<question>How many children had German composer Johann Sebastian Bach (1685-1750)?</question>
+<a>2</a>
+<b>6</b>
+<c>11</c>
+<d>20</d>
+<correct>d</correct>
+<image>english_random_bach.jpg</image>
+</data>
+
+<data>
+<question>The world littlest sobrean stats is...</question>
+<a>Ethiopia</a>
+<b>Vatican</b>
+<c>Egypt</c>
+<d>Cuba</d>
+<correct>b</correct>
+<image>english_random_worldmap.jpg</image>
+</data>
+
+<data>
+<question>Who had the greatest empire of all time?</question>
+<a>Portugal and Spain</a>
+<b>China</b>
+<c>U.S.A.</c>
+<d>Russian Federation</d>
+<correct>a</correct>
+<image>english_random_batalha.swf</image>
+</data>
+
+<data>
+<question>The exact speed of the light, in the emptiness, is...</question>
+<a>20 Khm/h</a>
+<b>1.000Km/s</b>
+<c>300.000 Km/s</c>
+<d>100.000Km/s</d>
+<correct>c</correct>
+<image>english_random_light.jpg</image>
+</data>
+
+<data>
+<question>The Koala is a marsupial mammal that sleeps around...</question>
+<a>6h a day</a>
+<b>20h a day</b>
+<c>1h a week</c>
+<d>24h a day</d>
+<correct>b</correct>
+<image>english_random_koala.jpg</image>
+</data>
+
+<data>
+<question>The Hummingbird is the world littlest bird, from the beak to the tail measures only...</question>
+<a>20 cms</a>
+<b>6 cms</b>
+<c>12 cms</c>
+<d>40 cms</d>
+<correct>b</correct>
+<image>english_random_bird.jpg</image>
+</data>
+
+<data>
+<question>Who has the oldest borders in the world, established in 1249?</question>
+<a>U.S.A.</a>
+<b>China</b>
+<c>Portugal</c>
+<d>France</d>
+<correct>c</correct>
+<image>english_random_batalha.swf</image>
+</data>
+
+<data>
+<question>The custom of drinking tea was introduced to the British court by...</question>
+<a>Portuguese</a>
+<b>French</b>
+<c>Chinese</c>
+<d>Spanish</d>
+<correct>a</correct>
+<image>english_random_tea.jpg</image>
+</data>
+
+<data>
+<question>Aristides Sousa Mendes, helped 30,000 Jews escape Nazi persecution, he was...</question>
+<a>French</a>
+<b>American</b>
+<c>English</c>
+<d>Portuguese</d>
+<correct>d</correct>
+<image>english_random_batalha.swf</image>
+</data>
+
+<data>
+<question>Apple Inc. was founded in...</question>
+<a>1380</a>
+<b>2007</b>
+<c>1976</c>
+<d>1988</d>
+<correct>c</correct>
+<image>english_random_apple.jpg</image>
+</data>
+
+<data>
+<question>The cost of developing all the packages included in Debian 4.0, has been estimated to be...</question>
+<a>US$10 million</a>
+<b>US$13 billion</b>
+<c>US$1 million</c>
+<d>US$2 million</d>
+<correct>b</correct>
+<image>english_random_debian.jpg</image>
+</data>
+
+<data>
+<question>Debian was first announced on 16 August 1993 by...</question>
+<a>Bill Gates</a>
+<b>Ian Murdock</b>
+<c>Mark Shuttleworth</c>
+<d>Steve Jobs</d>
+<correct>b</correct>
+<image>english_random_mark.jpg</image>
+</data>
+
+<data>
+<question>The Ubuntu software repository contains how many lines of code?</question>
+<a>121 billion</a>
+<b>9 billion</b>
+<c>121 million</c>
+<d>9 million</d>
+<correct>c</correct>
+<image>english_random_ubuntu.jpg</image>
+</data>
+
+<data>
+<question>The name Google originated from a misspelling of the word...</question>
+<a>gol</a>
+<b>googol</b>
+<c>googollo</c>
+<d>gogo</d>
+<correct>b</correct>
+<image>english_random_google.jpg</image>
+</data>
+
+
+</dataroot>
