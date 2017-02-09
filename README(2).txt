@@ -19,7 +19,7 @@ Pictures were taken from internet, their copyrights belong to their owners/autho
 INSTALL:
 ************************************************************************************
 
-1) Extract zip file, and run "game.exe"... That´s all!
+1) Extract zip file, and run "game.exe"... ThatÂ´s all!
 
 2) OR run "game.swf" ("game.swf" could be opened with your internet browser).
 
@@ -55,7 +55,7 @@ CREATE YOUR OWN IDIOM AND/OR QUESTIONS:
 
 3) Edit "settings.txt" and Save. (restart game) <-- Recommended: Create a backup of this file first!
 
-Note: Don´t forget to add images, in XML and in "images" folder, if you want better results. ;)
+Note: DonÂ´t forget to add images, in XML and in "images" folder, if you want better results. ;)
 Images must have: 765px width X 254px height
 
 ************************************************************************
@@ -69,7 +69,7 @@ TIPS:
 ************************************************************************
 
 1) Have things ordered! Adding a prefix to images (same as XML file) is a good way to go.
-Example: if your xml´s file name is: "english_history.xml", add your images, such as "english_history_london.jpg" and "english_history_liverpool.jpg"...
+Example: if your xmlÂ´s file name is: "english_history.xml", add your images, such as "english_history_london.jpg" and "english_history_liverpool.jpg"...
 
 2) Animated backgrounds: add "swf" files instead of "jpg" files in "images" folder, and edit accordingly it, in XML file.
 
