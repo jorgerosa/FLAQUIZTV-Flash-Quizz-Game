@@ -1,10 +1,5 @@
 # FLAQUIZTV - Family Quiz Game
 
-- FLAQUIZTV by: Jorge Rosa (Portugal) - With love to ASCR
-- Email: jorge.bigarte@gmail.com
-- Portfolio: http://sites.google.com/site/jorgerosaportfolio
-
-==============================================================================================
 ✿ DEMO VIDEO:
 http://youtu.be/bQStdKsLGuM?list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL
 - What this app does?
@@ -25,5 +20,14 @@ http://youtu.be/bQStdKsLGuM?list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL
 - 2) Convert to AS3 (ActionScript 3).
 - 3) Clean and optimize the code.
 - 4) Remove all the bugs, for a stable V.1.0
+
+--------------------------------------------------------------------------------------------------
+
+- This project has an CLONE at SOURCEFORGE.NET: https://sourceforge.net/projects/flaquiztv/
+- Developed by: Jorge Rosa (Portugal - With love to ASCR)
+- Developer Email: jorge.bigarte@gmail.com
+- Developer Portfolio: http://sites.google.com/site/jorgerosaportfolio (Many more stuff there)
+
+--------------------------------------------------------------------------------------------------
 
 
