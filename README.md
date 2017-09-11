@@ -16,10 +16,10 @@ http://youtu.be/bQStdKsLGuM?list=PLnhzSMPecj1HXo5IGrNFYiGyy6fHZYPTL
 
 =================================================================================
 - TO-DO tasks:
-- 1) Add support for ALL idioms (if possible).
-- 2) Convert to AS3 (ActionScript 3).
-- 3) Clean and optimize the code.
-- 4) Remove all the bugs, for a stable V.1.0
+1) Add support for ALL idioms (if possible).
+2) Convert to AS3 (ActionScript 3).
+3) Clean and optimize the code.
+4) Remove all the bugs, for a stable V.1.0
 
 --------------------------------------------------------------------------------------------------
 
