@@ -1,0 +1,81 @@
+&
+***********************************************************************
+
+IDIOM: English
+BY: Jorge Rosa
+
+***********************************************************************
+THIS DOCUMENT MUST BE SAVED IN UNICODE FORMAT FOR SPECIAL CHARACTERS USE,
+ALL THESE VARS ARE SET IN THE FLASH CODE, TO _LEVEL.69
+
+IMPORTANT: MUST RESPECT SPACES BEFORE AND AFTER EDIT WORDS! (variables values)
+IMPORTANT: RESPECT PONTUATION!
+IMPORTANT: DONT EDIT LAST VAR: &idiom_completed=number&
+
+MAIN CODE SYNTAX IS: &myVarGoesHere=myTextGoesHere&
+***********************************************************************
+&
+
+
+&delay=aguarde&
+&barras=1&
+&continuar=Continuar&
+&espaco=ESPAÇO&
+&apagar=APAGAR&
+&insiranome=Introduza o seu nome:&
+&jogar=JOGAR&
+&novojogo=JOGAR&
+&desistir=DESISTIR&
+&desligar=EXIT&
+&hiscores=HIGH SCORES&
+&menu=MENU&
+&creditos=CRÉDITOS&
+
+&hisc_nome=Nome:&
+&hisc_nivel=Nível:&
+&hisc_pontuacao=Pontos:&
+
+&caracteres=Caracteres:&
+&tempos=Tempo:&
+&jogador1=&
+
+&pre1=iniciamos o jogo no nível &
+&pre1a=vamos agora para o nível &
+&pre2=, respondeu correctamente a &
+&pre3= questões. &
+&pre4=Tem &
+&pre5= pontos e tem & 
+&pre7= vida(s). &
+&pre8=Boa sorte!&
+&pre9=Carregue em "OK" para continuar...&
+&pre10=Carregue em "OK" quando estiver pronto...&
+&pre11=Parabéns &
+&pre12=Bemvindo &
+&pre20=este jogo terminou, consegiu &
+&pre21= pontos, no nível &
+&pre23=FIM DO JOGO!&
+
+&prepergunta=responda à questão número &
+&vale=para &
+&pontos= pontos.&
+&aspas="&
+
+&acertou=A sua resposta está... Correcta!&
+&errou=A sua resposta está... Errada!&
+&errou0=A resposta correcta a&
+&errou1=Terminou o tempo! A resposta correcta à questão &
+&errou2=era &
+&errou3=!&
+
+&pisca1=Errado!&
+&pisca2=Correcto!&
+&pisca3=Terminou o tempo!&
+
+&nivel=Nível:&
+&vidas=Vidas:&
+&pontuacao=Pontos:&
+
+
+
+
+&idiom_completed=1&

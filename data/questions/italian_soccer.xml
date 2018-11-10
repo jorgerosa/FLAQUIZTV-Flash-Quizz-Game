@@ -1,0 +1,214 @@
+<!--
+IDIOM: Italiano
+TEMPLATE: Soccer Italia
+QUESTIONS BY: Yuri
+NUMBER OF QUESTIONS: 20
+DIFFICULTY: 6 (0 is easy, 10 is very hard)
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+
+
+<data>
+<question>Quale squadra ha acquistato Cristiano Ronaldo nell'estate del 2009?</question>
+<a>Barcellona</a>
+<b>Real Madrid</b>
+<c>Porto</c>
+<d>Inter</d>
+<correct>b</correct>
+<image>italiano_soccer_cristianoronaldo.jpg</image>
+</data>
+
+<data>
+<question>Chi ha vinto il pallone d'oro nel 2006?</question>
+<a>Cristiano Ronaldo</a>
+<b>Messi</b>
+<c>Cannavaro</c>
+<d>Eto'o</d>
+<correct>c</correct>
+<image>italiano_soccer_player.jpg</image>
+</data>
+
+<data>
+<question>Quale di queste squadre non ha allenato Carlo ancellotti</question>
+<a>Roma</a>
+<b>Reggiana</b>
+<c>Milan</c>
+<d>Chelsea</d>
+<correct>a</correct>
+<image>italiano_soccer_team2.jpg</image>
+</data>
+
+<data>
+<question>Quale squadra ha perso in Finale agli Europei del 2008?</question>
+<a>Spagna</a>
+<b>Italia</b>
+<c>Germania</c>
+<d>Francia</d>
+<correct>c</correct>
+<image>italiano_soccer_winnerscup.jpg</image>
+</data>
+
+<data>
+<question>Quale squadra ha vinto la Champion's League nel 2009?</question>
+<a>Chelsea</a>
+<b>Barcellona</b>
+<c>Mancester UTD</c>
+<d>Liverpool</d>
+<correct>b</correct>
+<image>italiano_soccer_team.jpg</image>
+</data>
+
+<data>
+<question>Chi e' l'allenatore della Nazionale Inglese</question>
+<a>Eriksson</a>
+<b>Capello</b>
+<c>Mclaren</c>
+<d>Ferguson</d>
+<correct>b</correct>
+<image>italiano_soccer_team.jpg</image>
+</data>
+
+<data>
+<question>Quale nazionale di calcio ha vinto piu' Mondiali?</question>
+<a>Italia</a>
+<b>Germania</b>
+<c>Argentina</c>
+<d>Brasile</d>
+<correct>d</correct>
+<image>italiano_soccer_team.jpg</image>
+</data>
+
+<data>
+<question>Quante Champion's League ha vinto il Real Madrid?</question>
+<a>8</a>
+<b>9</b>
+<c>7</c>
+<d>5</d>
+<correct>b</correct>
+<image>italiano_soccer_realmadrid.jpg</image>
+</data>
+
+<data>
+<question>Da quanti metri dalla porta si batte un calcio di rigore</question>
+<a>11</a>
+<b>13</b>
+<c>17</c>
+<d>7</d>
+<correct>a</correct>
+<image>italiano_soccer_penalty.jpg</image>
+</data>
+
+<data>
+<question>Una porta di calcio e' alta...</question>
+<a>2.10</a>
+<b>2.35</b>
+<c>2.44</c>
+<d>2.51</d>
+<correct>c</correct>
+<image>italiano_soccer_penalty.jpg</image>
+</data>
+
+<data>
+<question>Nella finale del mondiale 2006 Zidane ha dato una testata a...</question>
+<a>Cannavaro</a>
+<b>Materazzi</b>
+<c>Totti</c>
+<d>Pirlo</d>
+<correct>b</correct>
+<image>italiano_soccer_player.jpg</image>
+</data>
+
+<data>
+<question>Il portiere della Nazionale spagnola attuale e'..</question>
+<a>Zubizarreta</a>
+<b>Casillas</b>
+<c>Molina</c>
+<d>Guti</d>
+<correct>b</correct>
+<image>fundo3.jpg</image>
+</data>
+
+<data>
+<question>La squadra che ha vinto più coppe Uefa sono...</question>
+<a>Arsenal - Milan - Ajax</a>
+<b>Shaktar - Rangers - Amburgo</b>
+<c>Juventus - Inter - Liverpool</c>
+<d>Real - Barcellona - Bayern </d>
+<correct>c</correct>
+<image>italiano_soccer_winnerscup.jpg</image>
+</data>
+
+<data>
+<question>L'allenatore dell'Arsenal Arsene Wegner e'..</question>
+<a>Francese</a>
+<b>Tedesco</b>
+<c>Inglese</c>
+<d>Scozzese</d>
+<correct>a</correct>
+<image>italiano_soccer_team2.jpg</image>
+</data>
+
+<data>
+<question>In quale squadra gioca Fernando Torres?</question>
+<a>Liverpool</a>
+<b>Arsenal</b>
+<c>Manchester UTD</c>
+<d>Atl. Madrid</d>
+<correct>a</correct>
+<image>italiano_soccer_team2.jpg</image>
+</data>
+
+<data>
+<question>In quale di queste squadre non ha giocato Luca Toni...</question>
+<a>Roma</a>
+<b>Bayer</b>
+<c>Fiorentina</c>
+<d>Brescello</d>
+<correct>d</correct>
+<image>italiano_soccer_team2.jpg</image>
+</data>
+
+<data>
+<question>In quale di queste squadre non ha giocato Didier Drogba...</question>
+<a>Chelsea</a>
+<b>Bordeaux</b>
+<c>Marsiglia</c>
+<d>Le Mans</d>
+<correct>b</correct>
+<image>italiano_soccer_team2.jpg</image>
+</data>
+
+<data>
+<question>In quale di queste squadre non ha giocato Micheal Ballack...</question>
+<a>Bayer Leverkusen</a>
+<b>Monaco 1890</b>
+<c>Kaiserslautern</c>
+<d>Bayern Monaco</d>
+<correct>b</correct>
+<image>italiano_soccer_balack.jpg</image>
+</data>
+
+<data>
+<question>In quale di queste squadre non ha giocato Ronaldinho...</question>
+<a>Gremio</a>
+<b>Barcellona</b>
+<c>Palmeiras</c>
+<d>PSG</d>
+<correct>c</correct>
+<image>italiano_soccer_team.jpg</image>
+</data>
+
+<data>
+<question>La scarpa d'oro nella stagione 2006-07 e' stata..</question>
+<a>Didier Drogba</a>
+<b>Francesco Totti</b>
+<c>Fernando Torres</c>
+<d>Luca Toni</d>
+<correct>b</correct>
+<image>italiano_soccer_team2.jpg</image>
+</data>
+
+
+</dataroot>

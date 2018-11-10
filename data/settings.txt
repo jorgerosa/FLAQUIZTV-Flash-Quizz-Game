@@ -6,26 +6,15 @@ ALL THESE VARS ARE SET IN THE FLASH CODE, TO _LEVEL.69
 IMPORTANT: DONT FORGET TO ADD FILE EXTENSIONS!!! (.txt AND .xml)
 IMPORTANT: DONT EDIT LAST VAR: &settings_completed=number&
 
-MAIN CODE SYNTAX IS: &myVarGoesHere=myTextGoesHere&
+MAIN CODE SYNTAX IS AS: &myVar=myValue&
 ***********************************************************************
 &
 
 
 
 
-
-
-&idiom_File=english.txt&
-
-&questions_File=english_random.xml&
-
-
-
-
-
-
-
-
+&idiom_File=portuguese.txt&
+&questions_File=portuguese_random.xml&
 
 
 
